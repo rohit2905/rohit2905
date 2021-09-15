@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Goud
-- 🔭 I’m currently 💻 at [DBS](https://www.dbs.com/asia-hub-2/index.html)
+- 🔭 I’m currently a Software Engineer💻 at <b>[DBS]</b>(https://www.dbs.com/asia-hub-2/index.html)
 - 👀 I’m interested in Software Development, Cloud Automation
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me Email: krohitgoud@gmail.com
